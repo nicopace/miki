@@ -4,7 +4,7 @@ Miki - offline first, micro wiki
 How to use
 ----------
 
-    git clone https://github.com/ryanramage/miki
+    git clone https://github.com/nicopace/miki
     cd miki
     open index.html
 
