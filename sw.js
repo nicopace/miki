@@ -15,8 +15,7 @@ self.addEventListener('install', e => {
           'lib/director.min.js',
           'lib/pouchdb-2.2.0.min.js',
           'lib/ractive.js',
-          'js/app.js',
-          'index.js'
+          'js/app.js'
         ])
       })
   )
